@@ -1,0 +1,12 @@
+//AWS Config
+aws_region = "us-east-1"
+aws_access_key = "my-access-key"
+aws_secret_key = "my-aws_secret_key"
+//Optional
+//aws_instance_type = "t2.micro"
+
+
+//Okta ASA
+okta_pam_key_secret = "asa_key_secret"
+okta_pam_key = "asa_key"
+okta_pam_team = "team-name"
